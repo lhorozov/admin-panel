@@ -1,0 +1,10 @@
+diff a/src/graphql/schema/accessToken/resolvers/anonymousLogin.js b/src/graphql/schema/accessToken/resolvers/anonymousLogin.js	(rejected hunks)
+@@ -19,7 +19,7 @@
+           password: password,
+         }, { roles: ['USER'] })
+         .then((user) => {
+-          user.name = user.email.split('@')[0];
++          // user.name = user.email.split('@')[0];
+           user.isAnonymous = true;
+           user.anonymousId = anonymousId;
+           return user.save();

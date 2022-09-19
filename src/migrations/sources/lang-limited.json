@@ -1,0 +1,78 @@
+[{
+  "_id": "AR",
+  "name": "Arabic",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.726Z"
+  },
+  "__v": 0
+},{
+  "_id": "EN",
+  "name": "English",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.731Z"
+  },
+  "__v": 0
+},{
+  "_id": "ES",
+  "name": "Spanish",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.749Z"
+  },
+  "__v": 0
+},{
+  "_id": "FR",
+  "name": "French",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.732Z"
+  },
+  "__v": 0
+},{
+  "_id": "ID",
+  "name": "Indonesian",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.734Z"
+  },
+  "__v": 0
+},{
+  "_id": "JA",
+  "name": "Japanese",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.736Z"
+  },
+  "__v": 0
+},{
+  "_id": "KO",
+  "name": "Korean",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.738Z"
+  },
+  "__v": 0
+},{
+  "_id": "MS",
+  "name": "Malay",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.741Z"
+  },
+  "__v": 0
+},{
+  "_id": "PT",
+  "name": "Portuguese",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.745Z"
+  },
+  "__v": 0
+},{
+  "_id": "RU",
+  "name": "Russian",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.745Z"
+  },
+  "__v": 0
+},{
+  "_id": "ZH",
+  "name": "Chinese",
+  "createdAt": {
+    "$date": "2021-02-16T21:56:26.729Z"
+  },
+  "__v": 0
+}]
